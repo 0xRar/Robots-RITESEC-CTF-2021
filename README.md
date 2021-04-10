@@ -23,6 +23,7 @@ we get this base64 encoded text : `VW05aWIzUnpJR0Z5WlNCMFlXdHBibWNnYjNabGNpQXVMa
 
 ## Solution:
 but thats nothing its just a rabbit hole, but also the name of the challenge is a big hint, lets check `robots.txt`, there is alot of things here lets filter our search and use `CTRL + F` to search for the word: `flag`:
+
 ![image](https://user-images.githubusercontent.com/33517160/114281147-6a31c680-9a45-11eb-8eaa-cdce22369210.png)
 
 we got something thats good but when we try to access `Allow: /flag/UlN7UjBib3RzX2FyM19iNGR9` we get 404
