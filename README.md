@@ -1,5 +1,6 @@
 # Writeup for **Robots** RITESEC CTF 2021
-![image](https://user-images.githubusercontent.com/33517160/114279435-5a15e900-9a3d-11eb-828f-a7c07adc4820.png)
+![image](https://user-images.githubusercontent.com/33517160/114281089-03aca880-9a45-11eb-83b9-3e77626f37f7.png)
+
 
 - Challenge Name: **`Robots`**
 - Category: **`Web`**
