@@ -26,7 +26,7 @@ but thats nothing its just a rabbit hole, but also the name of the challenge is 
 
 ![image](https://user-images.githubusercontent.com/33517160/114281147-6a31c680-9a45-11eb-8eaa-cdce22369210.png)
 
-we got something thats good but when we try to access `Allow: /flag/UlN7UjBib3RzX2FyM19iNGR9` we get 404
+we got something thats good but when we try to access `/flag/UlN7UjBib3RzX2FyM19iNGR9` we get 404
 and it looks like `UlN7UjBib3RzX2FyM19iNGR9` is a base64 lets decode it, and yes, we got our flag.
 
 Flag: `RS{R0bots_ar3_b4d}`
