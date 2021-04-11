@@ -29,4 +29,4 @@ but thats nothing its just a rabbit hole, but also the name of the challenge is 
 we got something thats good but when we try to access `/flag/UlN7UjBib3RzX2FyM19iNGR9` we get 404
 and it looks like `UlN7UjBib3RzX2FyM19iNGR9` is a base64 lets decode it, and yes, we got our flag.
 
-Flag: `RS{R0bots_ar3_b4d}`
+Flag: **`RS{R0bots_ar3_b4d}`**
