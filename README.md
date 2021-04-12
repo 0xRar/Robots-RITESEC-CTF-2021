@@ -18,7 +18,7 @@ but there is one thing, we need to look at the source code:
 
 
 nothing much here but we see a plain text `flag.txt` its a file but is it the flag?
-we get this base64 encoded text : `VW05aWIzUnpJR0Z5WlNCMFlXdHBibWNnYjNabGNpQXVMaTQ9 = Robots are taking over ...`
+we get this base64 encoded text : `VW05aWIzUnpJR0Z5WlNCMFlXdHBibWNnYjNabGNpQXVMaTQ9 || Robots are taking over ...`
 
 
 ## Solution:
